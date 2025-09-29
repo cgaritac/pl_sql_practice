@@ -15,6 +15,8 @@ dbms_output.put_line(v_last_name || ' ' || v_f_name || ' ' || v_salary);
 
 END;
 
+
+--Instrucción simple para corroborar los datos, no forma parte del declare
 SELECT *
 FROM employees
 WHERE employee_id = 100;
