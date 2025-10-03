@@ -1,0 +1,37 @@
+----
+{
+  "procesador": "Intel Core i999",
+  "placa_madre": "Gigabyte A1234",
+  "almacenamiento": "3 TB",
+  "memoria_ram": "16 GB",
+  "placa_grafica": "NVidia Best Graphics 5000",
+  "meses_garantia": 12
+}
+----
+{
+  "procesador": "Intel Core Basic Edition",
+  "placa_madre": "Gigabyte B1",
+  "almacenamiento": "500 GB",
+  "memoria_ram": "4 GB",
+  "placa_grafica": "Integrada",
+  "meses_garantia": 18
+}
+----
+{
+  "sistema_operativo": "Android Candy",
+  "pantalla": "6.2 pulgadas",
+  "redes": "3G y 4G",
+  "procesador": "Snapdragon 999",
+  "almacenamiento": "64 GB",
+  "megapixeles_camara_trasera": 5,
+  "meses_garantia": 12
+}
+----
+{
+  "cantidad_programas": 9,
+  "capacidad_lavado": "Hasta 5kg",
+  "dimensiones": "50x40x85 (cm)",
+  "consumo_agua": "40 litros por lavado",
+  "tipo_equipo": "Automático"
+}
+--------------
